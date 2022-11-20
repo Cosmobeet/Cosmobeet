@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**HowToDuck/HowToDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cosmobeet/Cosmobeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
